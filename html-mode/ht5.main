@@ -1,5 +1,5 @@
 #contributor : Fernando Briano <fernando@picandocodigo.net>
-#name : <nav> ... </nav>
-#group : sections
+#name : <main> ... </main>
+#group : html5
 # --
-<nav>$1</nav>
+<main>$1</main>

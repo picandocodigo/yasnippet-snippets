@@ -1,5 +1,5 @@
 #contributor : Fernando Briano <fernando@picandocodigo.net>
 #name : <footer> ... </footer>
-#group : sections
+#group : html5
 # --
 <footer>$1</footer>
